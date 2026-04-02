@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;学生端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="300" width="200" height="40" as="geometry" />
+          <mxGeometry x="110" y="300" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
