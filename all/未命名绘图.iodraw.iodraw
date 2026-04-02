@@ -58,6 +58,15 @@
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="300" width="310" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ko5y9MvGpN3KsSrIecWa-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;首&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;页&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="590" y="420" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko5y9MvGpN3KsSrIecWa-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;首&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;页&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko5y9MvGpN3KsSrIecWa-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;首&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;页&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="800" y="430" width="40" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
