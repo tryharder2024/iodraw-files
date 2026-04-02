@@ -7,7 +7,7 @@
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;考研自习室预约系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ko5y9MvGpN3KsSrIecWa-2" value="用户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ko5y9MvGpN3KsSrIecWa-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
