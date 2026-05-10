@@ -23,10 +23,10 @@
           <mxGeometry x="816" y="562" width="103" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;关联&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="637" y="299" width="115" height="80" as="geometry" />
+          <mxGeometry x="1036" y="316" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;拥有&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="187" width="115" height="80" as="geometry" />
+          <mxGeometry x="942" y="169" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;发起&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="475.5" width="115" height="80" as="geometry" />
@@ -37,8 +37,8 @@
         <mxCell id="oM7ha0TQIAdezpWtgkEp-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="281" width="115" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oM7ha0TQIAdezpWtgkEp-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;拥有&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="618" y="205" width="115" height="80" as="geometry" />
+        <mxCell id="oM7ha0TQIAdezpWtgkEp-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;发布&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="295" width="115" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
