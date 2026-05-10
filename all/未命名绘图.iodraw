@@ -8,7 +8,7 @@
           <mxGeometry x="-54" y="491" width="103" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;问诊会话&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="859" y="723" width="103" height="49" as="geometry" />
+          <mxGeometry x="259" y="497" width="103" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宠物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="816" y="401" width="103" height="49" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="630" y="406" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;审计&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="853" y="240" width="115" height="80" as="geometry" />
+          <mxGeometry x="86" y="475.5" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="469" y="317" width="115" height="80" as="geometry" />
