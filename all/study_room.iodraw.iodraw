@@ -61,7 +61,7 @@
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数据统计分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="750" y="385" width="40" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Ko5y9MvGpN3KsSrIecWa-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;社区内容审核&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="Ko5y9MvGpN3KsSrIecWa-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;社&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;区&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;内&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;容&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;审&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;核&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="590" y="385" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;问诊记录审计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
