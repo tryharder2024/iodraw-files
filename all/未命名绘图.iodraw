@@ -37,6 +37,9 @@
         <mxCell id="oM7ha0TQIAdezpWtgkEp-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="281" width="115" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="oM7ha0TQIAdezpWtgkEp-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;拥有&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="618" y="205" width="115" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
