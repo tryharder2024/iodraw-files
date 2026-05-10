@@ -13,9 +13,6 @@
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" parent="1" source="Ko5y9MvGpN3KsSrIecWa-2" target="Ko5y9MvGpN3KsSrIecWa-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ko5y9MvGpN3KsSrIecWa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Ko5y9MvGpN3KsSrIecWa-2" target="Ko5y9MvGpN3KsSrIecWa-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Ko5y9MvGpN3KsSrIecWa-2" target="Ko5y9MvGpN3KsSrIecWa-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -67,7 +64,7 @@
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Ko5y9MvGpN3KsSrIecWa-22" target="Ko5y9MvGpN3KsSrIecWa-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ko5y9MvGpN3KsSrIecWa-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ko5y9MvGpN3KsSrIecWa-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;管理员模块（Web端）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="300" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ko5y9MvGpN3KsSrIecWa-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;配&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;置&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;与&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;公&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;告&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;管&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
