@@ -42,7 +42,7 @@
         <mxCell id="oM7ha0TQIAdezpWtgkEp-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="oM7ha0TQIAdezpWtgkEp-6" target="oM7ha0TQIAdezpWtgkEp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oM7ha0TQIAdezpWtgkEp-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;帖子标题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="oM7ha0TQIAdezpWtgkEp-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;会话标题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="446" y="349" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;所属标签&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
