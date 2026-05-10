@@ -11,7 +11,7 @@
           <mxGeometry x="250" y="491" width="103" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宠物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="816" y="401" width="103" height="49" as="geometry" />
+          <mxGeometry x="582" y="721" width="103" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宠物主人&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582" y="491" width="103" height="49" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="816" y="562" width="103" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;关联&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1036" y="316" width="115" height="80" as="geometry" />
+          <mxGeometry x="576" y="806" width="115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oM7ha0TQIAdezpWtgkEp-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;拥有&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="583" width="115" height="80" as="geometry" />
